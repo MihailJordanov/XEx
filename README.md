@@ -1,7 +1,8 @@
-# 🍻 XEx — The Ultimate Party Challenge Game
+[![XEx Icon](icon.png)](https://www.amazon.com/FlyRox48-XEx/dp/B0DPXZZPJJ/)
+# XEx — The Ultimate Party Challenge Game
 
 > ### ✅ NOW AVAILABLE ON **Amazon Appstore** — **100% FREE TO DOWNLOAD!**
-> 👉 [Get it now and start the fun](https://www.amazon.com/FlyRox48-XEx/dp/B0DPXZZPJJ/ref=sr_1_1?crid=2H4EYSEVLAW8L&dib=eyJ2IjoiMSJ9.LB6saiRxhWh4Ex0k9b74lVkR0K3cZqEEh332e_C18MF7vaYHZ2QR3yYV6g0z1mbKQhigNtjvunQQzmvoneE6r6Mi5A_DSyGJ2nOWfJvgf3re4rIzPXsOVj8rLm8I18QNmmMqLYVEm3Ke6u2sQ6D2STxG_HxapyDiS-32Ebwkxxez-TdpVPnQj_3GjB7dwTQqLgYSh7mXbm2bxFLk38nbuUXKiuzUt7hZuCCbLQGe1Nk.KzcpHbCax1CntsYTbdSE0xUpNO96u_jXULigq-X73Kc&dib_tag=se&keywords=xex&qid=1751464942&sprefix=xex%2Caps%2C198&sr=8-1) 👈
+> 👉 [Get it now and start the fun](https://www.amazon.com/FlyRox48-XEx/dp/B0DPXZZPJJ/) 👈
 
 **XEx** is a hilarious party game designed to bring fun, chaos, and unforgettable moments to your night out (or in) with friends! Packed with exciting challenges, dares, and penalties — this game is the perfect way to break the ice and spice up the evening. 🥳
 
@@ -27,7 +28,7 @@ To fully enjoy the experience, we recommend having:
 - Optionally:
   - A standard deck of cards 🃏
   - A dice 🎲
-  - A coin 🪙
+  - A coin 💰
   - Ice cubes 🧊
 
 ---
@@ -73,7 +74,7 @@ Because every shot tells a story.
 > ### ✅ AVAILABLE NOW ON **Amazon Appstore**  
 > 🎉 **FREE TO DOWNLOAD** — No ads, no limits, just fun!
 
-🔗 [Download on Amazon Appstore](https://www.amazon.com) *(replace with actual link)*
+🔗 [Download XEx on Amazon Appstore](https://www.amazon.com/FlyRox48-XEx/dp/B0DPXZZPJJ/)
 
 ---
 
