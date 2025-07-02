@@ -1,4 +1,8 @@
-<img src="docs/Icons/d5.png" alt="XEx Icon" width="32" style="vertical-align: middle;"/> **XEx — The Ultimate Party Challenge Game**
+<p align="center">
+  <img src="docs/Icons/d5.png" alt="XEx Icon" width="120"/>
+</p>
+
+# 🍻 XEx — The Ultimate Party Challenge Game
 
 
 > ### ✅ NOW AVAILABLE ON **Amazon Appstore** — **100% FREE TO DOWNLOAD!**
