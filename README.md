@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/Icons/d5.png" alt="XEx Icon" width="120"/>
+  <img src="docs/Icons/d5.png" alt="XEx Icon" width="240"/>
 </p>
 
 # 🍻 XEx — The Ultimate Party Challenge Game
