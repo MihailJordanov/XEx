@@ -1,4 +1,4 @@
-[![XEx Icon](icon.png)](https://www.amazon.com/FlyRox48-XEx/dp/B0DPXZZPJJ/)
+<img src="docs/Icons/d5.png" alt="XEx Icon" width="32" style="vertical-align: middle;"/>  
 # XEx — The Ultimate Party Challenge Game
 
 > ### ✅ NOW AVAILABLE ON **Amazon Appstore** — **100% FREE TO DOWNLOAD!**
